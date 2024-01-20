@@ -182,4 +182,19 @@ code {
     margin-left: 20px;
     margin-top: 65px;
   }
+
+  section article {
+    color: #4d4e53;
+    margin: 15px;
+    font-size: 0.5em;
+  }
+  
+  section li {
+    margin: 15px 0px 0px 10px;
+  }
+
+  #main-doc header {
+    text-align: left;
+    font-size: 1.2em;
+  } 
 }
