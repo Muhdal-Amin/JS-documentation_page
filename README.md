@@ -45,4 +45,4 @@ Users should be able to:
 
 ## Acknowledgements
 
-[Muhdal-Amin]()
+[Muhdal-Amin](https://github.com/Muhdal-Amin)
