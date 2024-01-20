@@ -100,7 +100,7 @@ code {
 }
 
 
-@media only screen and (max-width: 815px) {
+@media only screen and (max-width: 950px) {
   /* For mobile phones: */
   .menu__toggle {
     display: block;
@@ -212,15 +212,15 @@ code {
 
 }
 
-@media only screen and (max-width: 400px) {
+@media (min-width: 250px) and (max-width: 450px) {
   #main-doc {
-    margin-right: 10px;
+    margin-right: 12px;
   }
 
   section article {
     color: #4d4e53;
     margin: 15px;
-    font-size: 0.6em;
+    font-size: 0.7em;
   }
   
   section li {
